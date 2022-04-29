@@ -1,0 +1,6 @@
+// Encryption is the method by which information is converted into secret code that hides the information's true meaning. The science of encrypting and decrypting information is called cryptography. In computing, unencrypted data is also known as plaintext, and encrypted data is called ciphertext.
+
+// Encrypted data can also be decrypted (2 way communication) => so not safe for storing passwords in a database...
+
+// Hashing => 1 way communication ;)
+// we use hashing instead of encryption, to store sensitive data like passwords etc...

@@ -1,0 +1,3 @@
+// React is an open-source js module devloped by facebook...
+// React​ is not a framework, it's a module
+// It is also known as ReactJS and React.js,  so don’t get confused if you read different notations in different places. 
